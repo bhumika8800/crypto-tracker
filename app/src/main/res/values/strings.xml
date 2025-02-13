@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="price">price</string>
+    <string name="name">name</string>
+    <string name="symbol">symbol</string>
+    <string name="search">search</string>
+</resources>
